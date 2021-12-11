@@ -16,7 +16,7 @@ Please read https://www.dropbox.com/s/dcrlgiul2dr26bm/architech-labs-code-test.p
 Clone this project with the following commands:
 
 ```bash
-git clone https://github.com/shahbaz17/php-rest-api.git
+git clone git@github.com:OlabodeAbesin/widget-php.git
 cd php-rest-api
 ```
 ## Assumptions
